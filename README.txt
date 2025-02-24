@@ -1,1 +1,2 @@
-Repositório criado para compartilhamento dos projetos executados durante o Bootcamp de Analista de Dados pela SoulCode Academy
+Projetos do Bootcamp - SoulCode Academy
+Este repositório contém os projetos desenvolvidos durante o bootcamp da SoulCode Academy no curso de Analista de Dados. Cada projeto está salvo em uma branch separada para melhor organização e controle de versão.
